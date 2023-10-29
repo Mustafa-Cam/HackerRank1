@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\bin\Debug\net7.0\HackerRank1.exe
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\bin\Debug\net7.0\HackerRank1.deps.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\bin\Debug\net7.0\HackerRank1.runtimeconfig.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\bin\Debug\net7.0\HackerRank1.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\bin\Debug\net7.0\HackerRank1.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.AssemblyInfo.cs
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\refint\HackerRank1.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\HackerRank1.genruntimeconfig.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\obj\Debug\net7.0\ref\HackerRank1.dll

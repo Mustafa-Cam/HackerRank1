@@ -1,0 +1,14 @@
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\bin\Debug\net7.0\MinMax-HR.exe
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\bin\Debug\net7.0\MinMax-HR.deps.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\bin\Debug\net7.0\MinMax-HR.runtimeconfig.json
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\bin\Debug\net7.0\MinMax-HR.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\bin\Debug\net7.0\MinMax-HR.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.AssemblyInfo.cs
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\refint\MinMax-HR.dll
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.pdb
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\MinMax-HR.genruntimeconfig.cache
+C:\Users\musta\OneDrive - nku.edu.tr\Masaüstü\herşey\patikam\HackerRank1\MinMax-HR\obj\Debug\net7.0\ref\MinMax-HR.dll

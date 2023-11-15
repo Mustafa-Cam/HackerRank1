@@ -32,10 +32,10 @@ public class Question3 {
         }
 
         // Gerektiğinde boyutu ayırabilirsiniz
-        char[] sonuc = new char[index];
-        System.arraycopy(sesliHarfler, 0, sonuc, 0, index);
+        // char[] sonuc = new char[index];
+        // System.arraycopy(sesliHarfler, 0, sonuc, 0, index);
 
-        return sonuc;
+        return sesliHarfler;
     }
 
     public static boolean sesliMi(char harf) {

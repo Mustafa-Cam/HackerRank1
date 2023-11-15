@@ -27,10 +27,28 @@ public static boolean isPrime(int a){
 
     System.out.println("Lütfen"+ sayi +"sayı giriniz");
     for(int a=0;a<sayi;a++) {
+        
         System.out.println(a+". sayiyi girin");
-        int b = scanner.nextInt();
-        integerList.add(b);
+
+        if(scanner.hasNextInt()){   
+            int b = scanner.nextInt();
+        if(b<0){
+            System.out.println("Enter the positive number not negative.");
+            a--;
+        }  else{
+            integerList.add(b);
+        }
+        }
+        else{
+        System.out.println("Enter number");   
+        scanner.next(); // buffer ı temizle knkm yani bizim değer sayı olmadığı zaman buffer da kalıyor onu temizlemen gerek yoksa sürekli sayı olmadığı için sonsuz döngüye girecek.
+        a--;    
+        
+    } 
     }
+
+
+
     for(int a :integerList) {
         if(isPrime(a)){
             prime.add(a);

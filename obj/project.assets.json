@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\patikam\\HackerRank1\\HackerRank1.csproj",
+      "projectUniqueName": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\Yazılım\\patikam\\HackerRank1\\HackerRank1.csproj",
       "projectName": "HackerRank1",
-      "projectPath": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\patikam\\HackerRank1\\HackerRank1.csproj",
+      "projectPath": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\Yazılım\\patikam\\HackerRank1\\HackerRank1.csproj",
       "packagesPath": "C:\\Users\\musta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\patikam\\HackerRank1\\obj\\",
+      "outputPath": "C:\\Users\\musta\\OneDrive - nku.edu.tr\\Masaüstü\\herşey\\Yazılım\\patikam\\HackerRank1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
